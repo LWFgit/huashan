@@ -1,0 +1,6 @@
+good1.txt
+aaaaaaaa
+bbbbbbbbb
+bbbbbbbbb
+ddddddddd
+ggggggggg
